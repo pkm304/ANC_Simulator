@@ -7,7 +7,7 @@ shinyUI( #L1
       column(12, #L4
             
              img(src="banner.png", style = "max-width: 1000px; width: 100%; height: auto"),
-             HTML('<b style="padding:5px;font-size:100%;color:dark blue"> <a href=“https://github.com/pkm304/ANC_Simulator"> https://github.com/pkm304/ANC_Simulator </a> </b>'),
+             HTML('<b style="padding:5px;font-size:100%;color:dark blue"> <a href=“https://github.com/pkm304/ANC_Simulator/"> https://github.com/pkm304/ANC_Simulator </a> </b>'),
             
       ) #L4 closed
     ), #L3 closed
